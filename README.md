@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Chetan Chauhan (devops4298)
-
 **Enterprise Test Architect | AI & Automation Expert**  
 Specializing in designing and implementing advanced automation solutions, AI-powered test architectures, multi-agent systems, and ETL workflows.
 
