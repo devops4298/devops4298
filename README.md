@@ -41,7 +41,24 @@ Chicago, IL, USA
 - [PW-MCP](https://github.com/devops4298/PW-MCP) — Playwright MCP automation
 
 ### Private & Starred Projects
-(You have many private repos focused on agentic ETL, test healing, RAG setups, and self-healing dashboards, highlighting advanced automation capabilities!)
+### 🔒 Top Private Repositories
+
+- **[xAgenticETL]** — Agentic workflow for ETL applications  
+- **[Xnegotiation]** — End to End Test Negotiation agentic RAG system
+- **[xRag]** — Private RAG (Retrieval-Augmented Generation) technology  
+- **[Xheal-Automation]** — Playwright-based Test Healing automation  
+- **[Xheal]** — Automation tool agnostic Test Healing automation (supports Playwright, Typescripts, selenium, Guidewire GTF, etc)
+- **[D-CaFe]** — Agentic system for automated software test data generation (supports many source of data like api, database, synthetic, UI, logs etc) 
+- **[xTestDataAgent]** — Agent-based test data generation  
+- **[xTestCoverage]** — Python agentic test coverage reporting  
+- **[ReportingDashboard]** — AI-powered, self-healing test dashboard  
+- **[xMCP]** — Model Context Protocol and tool-sharing for agents  
+- **[xQualityOrchestrationAgent]** — Quality Test Orchestration Agent  
+- **[rag-vertexai-embadding]** — Secure RAG with Vertex AI embeddings  
+- **[agentic-test-automation]** — Advanced agentic test automation framework
+
+> *Note: Details private; contact for more information or a detailed demo if appropriate!*
+
 
 ---
 
